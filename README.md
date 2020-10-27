@@ -10,3 +10,5 @@ MAIN
 
 ## release
     v0.0.1
+## function2
+    developed function2
