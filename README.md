@@ -7,3 +7,6 @@ MAIN
 
 ## new function
     it is new function
+
+## function2
+    developed function2
