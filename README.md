@@ -6,3 +6,6 @@ MAIN
 
 ## new function
     it is new function
+
+## release
+    v0.0.1
